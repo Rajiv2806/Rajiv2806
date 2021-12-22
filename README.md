@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Welcome to my profile page. I work as a Data Scientist.
-
+Welcome to my Git profile. I am a Data Scientist.
 
 
 Here are some ideas to get you started:
