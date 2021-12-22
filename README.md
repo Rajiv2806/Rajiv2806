@@ -3,8 +3,6 @@
 Welcome to my Git profile. I am a Data Scientist.
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Machine Learning, Deep Learning Projects
 - 🌱 I’m always learning. There is lots to explore in this field. 
 - 👯 I’m looking to collaborate on any technical requirements you have.
