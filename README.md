@@ -15,7 +15,8 @@ Welcome to my Git profile. I am a Data Scientist.
 
   [Kaggle](https://www.kaggle.com/rajiv2806)
 
-- I target to push atleast one new code commit per week in 2022.
+
+I target to push atleast one new code commit per week in 2022.
 
 <!-- 
 - 😄 Pronouns: ...
