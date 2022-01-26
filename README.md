@@ -24,7 +24,20 @@ Welcome to my Git profile. I am Rajiv and i am a Data Scientist.
 - 🌱 I’m always learning. There is lots to explore in this field. 
 - 👯 I’m looking to collaborate on any technical requirements you have.
 - 🤔 I’m looking for help with system design.
-- 💬 Ask me about ...
+<!-- - 💬 Ask me about ... -->
+
+
+## Projects References
+
+1. [Processing Dates with Pandas](https://github.com/Rajiv2806/Python-Code-Helpers/blob/main/Pandas/Pandas%20Dates.ipynb)
+
+2. [Pandas Data Pre processing](https://github.com/Rajiv2806/Python-Code-Helpers/blob/main/Pandas/Pandas%20Reference.ipynb)
+
+3. [IPywidgets](https://github.com/Rajiv2806/Python-Code-Helpers/tree/main/Jupyter%20Lab%20Widgets)
+
+4. [Geo Mapping](https://github.com/Rajiv2806/Python-Code-Helpers/tree/main/GeoMaps)
+
+
 
 - 📫 Reach out to me on my social media profiles below: 
 
