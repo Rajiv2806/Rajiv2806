@@ -39,7 +39,7 @@ Welcome to my Git profile. I am Rajiv and i am a Data Scientist.
 
 
 
-- 📫 Reach out to me on my social media profiles below: 
+## 📫 Reach out to me on my social media profiles below: 
 
   [LinkedIn](https://www.linkedin.com/in/rajiv2806/)
 
@@ -48,7 +48,7 @@ Welcome to my Git profile. I am Rajiv and i am a Data Scientist.
   [Kaggle](https://www.kaggle.com/rajiv2806)
 
 
-I target to push atleast one new code commit per week in 2022, that can help the community.
+I target to push atleast one new code commit per week in 2022, that can help the community. Kindly support by following me or giving me a star if any of the code is of help to you.
 
 <!-- 
 - 😄 Pronouns: ...
