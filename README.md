@@ -1,12 +1,16 @@
-### Hi there 👋
+### Here is Rajiv
 
-Welcome to my Git profile. I am Rajiv and i am a Data Scientist.
+I'm a Data Scientist & I'd love to solve problems with data. "Dating with data" is a part of my daily job. 
+
+I'm really fascinated by the research happening in the Data Science/ML space & I try my level best to keep up with the advances.
+
+Welcome to my Git profile.
 
 - I am interested in solving problems related to Machine learning, Deep Learning, Reinforcement Learning. 
-- I love to automate things using Python.
+- I love automating things using Python.
 - Presenting raw data using python dashboards for visualizations.
 - I have very string base in SQL - Postgres, Oracle, MySQL, AWS Athena etc..,
-- I experience includes:
+- My experience includes:
 - Custmer Churn
 - Fraud Detection
 - Recommendation systems
